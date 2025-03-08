@@ -1,0 +1,130 @@
+    div.products{
+    width: 1336px;
+    height: 500px;
+    border-radius: 15px;
+    position: relative;
+    right: 15%;
+    margin-top: 50px;
+    border: 0.5px solid rgb(206, 205, 205);
+    border-bottom: 0.5px solid rgb(206, 205, 205);
+    vertical-align: middle;
+}
+div.products>h3{
+    align-items: center;
+    margin-right: 605px;
+    margin-top: 10px;
+    padding-top: 10px;
+    font-weight: 500;
+    display: inline-block;
+}
+div.products>button{
+    width: 50px;
+    height: 26px;
+    margin-right: 500px;
+    color: #96E2EB;
+    background-color: #fff;
+    border: unset;
+    vertical-align: middle;
+    align-items: center;
+}
+div.products .swiper-slide{
+    height: 390px;
+}
+div.products .swiper-slide>a{
+    width: 314px;
+    height: 80px;
+    display: inline-block;
+}
+div.products .swiper-slide>a>div{
+    width: 314px;
+    height: 80px;
+    display: block;
+    padding-right: 10px;
+    margin-top: 50px;
+}
+div.products .swiper-slide>a>div>img{
+    width: 86px;
+    height: 86px;
+    display: inline-block;
+    vertical-align: middle;
+}
+div.products .swiper-slide>a>div>span{
+    width: 17px;
+    height: 86px;
+    color: #96E2EB;
+    font-size: 30px;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 2.5;
+}
+div.products .swiper-slide>a>div>p{
+    width: 186px;
+    height: 52px;
+    color: black;
+    font-size: 12px;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 2.5;
+
+}
+
+div.hotproducts{
+    width: 1336px;
+    height: 500px;
+    border-radius: 15px;
+    position: relative;
+    right: 15%;
+    margin-top: 20px;
+    border: 0.5px solid rgb(206, 205, 205);
+    border-bottom: 0.5px solid rgb(206, 205, 205);
+    vertical-align: middle;
+}
+div.hotproducts>h3{
+    align-items: center;
+    margin-right: 550px;
+    margin-top: 10px;
+    padding-top: 10px;
+    font-weight: 500;
+    display: inline-block;
+}
+div.hotproducts .swiper-slide{
+    height: 390px;
+}
+div.hotproducts .swiper-slide>a{
+    width: 320px;
+    height: 80px;
+    display: inline-block;
+}
+div.hotproducts .swiper-slide>a>div{
+    width: 320px;
+    height: 80px;
+    display: block;
+    padding-right: 30px;
+    margin-top: 50px;
+}
+div.hotproducts .swiper-slide>a>div>img{
+    width: 86px;
+    height: 86px;
+    display: inline-block;
+    vertical-align: middle;
+}
+div.hotproducts .swiper-slide>a>div>span{
+    width: 17px;
+    height: 86px;
+    color: #96E2EB;
+    font-size: 30px;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 2.5;
+}
+div.hotproducts .swiper-slide>a>div>p{
+    width: 186px;
+    height: 52px;
+    color: black;
+    font-size: 12px;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 2.5;
+
+}
+

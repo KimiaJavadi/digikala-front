@@ -1,0 +1,33 @@
+div.firstmenu{
+    width:100%;
+    display: inline-block;
+    margin-top: 20px;
+    vertical-align: middle;
+    position: absolute;
+    right: 12%;
+}
+div.firstmenu>a{
+    width: 70px;
+    height: 103px;
+    display: inline-block;
+    padding-right: 120px;
+}
+div.firstmenu>a>div{
+    width: 52px;
+    height: 52px;
+    display: block;
+}
+div.firstmenu>a>div>img{
+    width: 52px;
+    height: 52px;
+    display: block;
+    border-radius: 50%;
+}
+div.firstmenu>a>span{
+    width: 60px;
+    height: 50px;
+    font-size: 10px;
+    display: inline-block;
+    vertical-align: middle;
+    color: black;
+}

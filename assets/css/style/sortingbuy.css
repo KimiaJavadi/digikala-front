@@ -1,0 +1,35 @@
+div.sortingproducts{
+    width: 100%;
+    display: inline-block;
+    margin-right: 400px;
+}
+div.sortingproducts>h3{
+    width: 222px;
+    height: 41px;
+    margin-right: 500px;
+    margin-top: 50px;
+}
+div.sortingproducts>div{
+    width: 1336px;
+    height: 160px;
+    display: inline-block;
+    line-height: 1;
+}
+div.sortingproducts>div>span{
+    display: inline-block;
+    width: 140px;
+    height: 160px;
+    padding: 20px;
+    text-align: center;
+}
+div.sortingproducts>div>span>a>img{
+    width: 100px;
+    height: 100px;
+}
+div.sortingproducts>div>span>a>p{
+    width: 100px;
+    height: 26px;
+    font-size: 12px;
+    color: black;
+    font-weight: bold;
+}

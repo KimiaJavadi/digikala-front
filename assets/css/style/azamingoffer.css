@@ -1,0 +1,99 @@
+div.amazingoffer{
+    width: 1336px;
+    height: 294px;
+    background-color: #db304e;
+    border-radius: 16px;
+    position: relative;
+    right: 15%;
+    margin-top: 120px;
+
+}
+div.amazingoffer .swiper-slide1{
+    background-color: #db304e;
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-left: 50px;
+    width: 188px;
+}
+div.amazingoffer .swiper-slide1>button{
+    background-color: #db304e;
+    color: white;
+    border: unset;
+    margin-top: 20px;
+}
+div.amazingoffer .swiper-slide2{
+    width: 166px;
+    height: 254px;
+    margin: 20px 0px 0px 2px;
+    background-color: #ffffff;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+
+
+div.amazingoffer .swiper-slide{
+    width: 166px;
+    height: 254px;
+    margin: 20px 0px 0px 2px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+div.amazingoffer .swiper-slide>a{
+    width: 126px;
+    height: 254px;
+    margin: 0px 50px;
+    padding: 0px 16px;
+    background-color: white;
+    text-align: center;
+}
+div.amazingoffer .swiper-slide>a>div{
+    width: 144px;
+    height: 130px;
+    vertical-align: middle;
+    align-items: center;
+}
+div.amazingoffer .swiper-slide>a>div>img{
+    width: 132px;
+    height: 132px;
+    align-items: center;
+}
+div.amazingoffer .swiper-slide>a>div>h3{
+    width: 144px;
+    height: 40px;
+    font-size: 12px;
+    color: rgb(80, 79, 79);
+    text-align: center;
+    vertical-align: middle;
+    background-color: #fff;
+    align-items: center;
+    margin-top: 10px;
+}
+div.amazingoffer .swiper-slide>a>div>div>button{
+    width: 34px;
+    height: 20px;
+    background-color: #db304e;
+    border-radius: 40px;
+    border: unset;
+    color: #fff;
+    display: inline-block;
+    margin-right: 2px;
+}
+div.amazingoffer .swiper-slide>a>div>div>div{
+    width: 100px;
+    height: 24px;
+    display: inline-block;
+}
+div.amazingoffer .swiper-slide>a>div>div>div>span{
+    font-size: 13px;
+    color: black;
+    display: inline-block;
+    margin-right: 10px;
+}
+div.amazingoffer .swiper-slide>a>div>div{
+    color: rgb(122, 122, 122);
+    text-decoration: line-through;
+    font-size: 10px;
+    text-align: end;
+}

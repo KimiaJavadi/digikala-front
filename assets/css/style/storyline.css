@@ -1,0 +1,25 @@
+div.storyline{
+    width: 70%;
+    height: 166px;
+    margin: 0 250px;
+    padding-top: 16px;
+    display: inline-block;
+}
+div.storyline .swiper-slide{
+    width: 100%;
+    height: 100%;
+    padding-top: 15px;
+}
+
+div.storyline .swiper-slide>img{
+    width: 84px;
+    height: 84px;
+    border-radius: 50%;
+    outline: 1px solid #AF81BB ;
+    outline-offset: 4px;
+    display: block;
+    margin: 0 auto;
+}
+div.storyline .swiper-slide span{
+    font-size: 12px;
+}

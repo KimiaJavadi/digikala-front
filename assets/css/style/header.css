@@ -1,0 +1,180 @@
+header{
+    width: 100%;
+    height: 168px;
+    background-color: white;
+    border-bottom:2px solid #E0E0E2;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+header>div.top-header{
+    width: 100%;
+    height: 60px;
+    background-color: white;
+}
+header>div.top-header>img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+header>div.bottom-header{
+    width: 100%;
+    height: 68px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 12px 16px;
+    display: inline-block;
+}
+header>div.bottom-header>div.right-side{
+    width: 70%;
+    height: 100%;
+    background-color: #fff;
+    display: inline-block;
+}
+header>div.bottom-header>div.right-side>div.logo{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 150px;
+}
+header>div.bottom-header>div.right-side>div.searchbar{
+    display: inline-block;
+    vertical-align: middle;
+    font-family: iran;
+    display: inline-block;
+}
+header>div.bottom-header>div.right-side>div.searchbar>form>input{
+    width: 568px;
+    height: 44px;
+    padding: 20px;
+    margin-right: 50px;
+    background-color: #f0f0f1;
+    border-radius: 8px;
+    border: unset;
+    outline: unset;
+    color: #81858B;
+    font-size: 16px;
+    transition: 500ms;
+    display: inline-block;
+}
+header>div.bottom-header>div.right-side>div.searchbar>form>input:focus{
+    background-color: white;
+    border: 1px solid grey;
+}
+header>div.bottom-header>div.right-side>div.searchbar>form>input:focus::placeholder{
+    color: rgb(216, 215, 215);
+}
+header>div.bottom-header>div.left-side{
+    width: 20%;
+    height: 44px;
+    background-color: #fff;
+    display: inline-block;
+}
+header>div.bottom-header>div.left-side>a>div.register-btn{
+    width: 134px;
+    height: 40px;
+    padding: 8px 16px;
+    margin-right: 200px;
+    border: 1px solid #E0E0E2;
+    color: black;
+    font-size: 12px;
+    font-family: iran;
+    font-weight: 600;
+    border-radius: 8px;
+    box-sizing: border-box;
+    align-items: center;
+    display: inline-block;
+    background-color: #fff;
+    text-align: center;
+    vertical-align: middle;
+}
+header>div.bottom-header>div.left-side>a>div.register-btn>div{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+header>div.bottom-header>div.left-side>a>div{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+header>menu.nav{
+    width: 100%;
+    height: 40px;
+    margin: 0 150px;
+    display: inline-block;
+    vertical-align: middle;
+}
+header>menu.nav>ul{
+    width: 10%;
+    display: inline-block;
+    list-style: none;
+}
+
+header>menu.nav>ul>li>a{
+    width: 150px;
+    font-size: 15px;
+    font-weight: 500;
+    margin-right: 50px;
+    color: #62666d;
+    transition: ease-in;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 10px;
+}
+
+
+header>menu.nav>ul:hover{
+    border-bottom:2px solid #EF394E;
+}
+header>menu.nav>ul:hover>li>div.box>div.right>ul>li{
+    display: block;
+}
+header>menu.nav>div.list{
+    width: 1100px;
+    display: inline-block;
+    vertical-align: middle;
+    position: fixed;
+    margin-top: 10px;
+}
+header>menu.nav>div.list>a{
+    width:130px;
+    font-size: 12px;
+    font-weight: 500;
+    color: #62666d;
+    vertical-align: middle;
+    margin-right: 10px;
+    display: inline-block;
+}
+header>menu.nav>div.list>a>div{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+header>menu.nav>div.list>a:hover{
+    border-bottom: 2px solid #EF394E;
+}
+
+header>menu.nav>button.city{
+    width: 172px;
+    height: 34px;
+    text-align: center;
+    align-items: center;
+    color: #F57F17;
+    background-color: #f8dec6;
+    border-radius: 20px;
+    border: unset;
+    display: inline-block;
+    margin-right: 300px;
+    position: fixed;
+    right: 65%;
+    vertical-align: middle;
+}
+header>menu.nav>button.city>div{
+    width: 14px;
+    height: 14px;
+    display: inline-block;
+    vertical-align: middle;
+}

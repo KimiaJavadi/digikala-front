@@ -1,0 +1,197 @@
+div.pictures{
+    width: 1336px;
+    height: 241px;
+    display: inline-block;
+    margin-right: 290px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+div.pictures>a{
+    width: 330px;
+    height: 241px;
+}
+div.pictures>a>img{
+    width: 330px;
+    height: 241px;
+    border-radius: 20px;
+    object-fit: cover;
+    padding: 5px;
+}
+div.pictures2{
+    width: 1336px;
+    height: 241px;
+    display: inline-block;
+    margin-right: 300px;
+    margin-top: 20px;
+}
+div.pictures2>a{
+    width: 330px;
+    height: 241px;
+}
+div.pictures2>a>img{
+    width: 330px;
+    height: 241px;
+    border-radius: 20px;
+    object-fit: cover;   
+}
+div.pictures3{
+    width: 1336px;
+    height: 241px;
+    display: inline-block;
+    margin-right: 300px;
+    margin-top: 50px;
+}
+div.pictures3>a{
+    width: 1336px;
+    height: 241px;
+}
+div.pictures3>a>img{
+    width: 660px;
+    height: 241px;
+    border-radius: 20px;
+    object-fit: cover;  
+}
+
+
+div.pictures4{
+    width: 1336px;
+    height: 241px;
+    display: inline-block;
+    margin-right: 300px;
+    margin-top: 20px;
+}
+div.pictures4>a{
+    width: 1336px;
+    height: 241px;
+}
+div.pictures4>a>img{
+    width: 660px;
+    height: 241px;
+    border-radius: 20px;
+    object-fit: cover;  
+}
+
+
+
+div.pictures5{
+    width: 1336px;
+    height: 167px;
+    position: relative;
+    right: 15%;
+    margin-top: 20px;
+}
+div.pictures5>img{
+    width: 1336px;
+    height: 167px;
+    object-fit: contain;
+    border-radius: 10px;
+}
+
+
+
+div.pictures6{
+    width: 1336px;
+    height: 300px;
+    margin-right: 300px;
+    vertical-align: middle;
+    margin-top: 50px;
+    display: inline-block;
+}
+div.pictures6>div{
+    width: 1336px;
+    height: 30px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 10px;
+}
+div.pictures6>div>div{
+    width: 80px;
+    height: 33px;
+    color: black;
+    font-size: 15px;
+    display: inline-block;
+    vertical-align: middle;
+}
+div.pictures6>div>a{
+    width: 200px;
+}
+div.pictures6>div>a>button{
+    width: 200px;
+    color: #78D9E5;
+    background-color: white;
+    border: unset;
+    vertical-align: bottom;
+    margin-bottom: 20px;
+    display: inline-block;
+    position: absolute;
+    right: 75%;
+}
+div.pictures6>div.reading{
+    width: 1336px;
+    height: 279px;
+    display: inline-block;
+    vertical-align: middle;
+}
+div.pictures6>div.reading>span{
+    display: inline-block;
+    width: 320px;;
+}
+div.pictures6>div.reading>span>a{
+    width: 320px;
+    height: 279px;
+    display: inline-block;
+    vertical-align: middle;
+}
+div.pictures6>div.reading>span>a>img{
+    width: 320px;
+    height: 201px;
+    display: inline-block;
+    border-radius: 10px
+}
+div.pictures6>div.reading>span>a>div{
+    display: inline-block;
+    color: black;
+    font-size: 13px;
+}
+
+
+div.leftoffer{
+    width: 130px;
+    height: 54px;
+    background-color: #029a49;
+    color: white;
+    align-items: center;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 12px 10px;
+    vertical-align: middle;
+    position: fixed;
+    z-index: 4;
+    left: 16px;
+    bottom: 32px;
+}
+div.leftoffer>div{
+    width: 25px;
+    height: 28px;
+    display: inline-block;
+    vertical-align: middle;
+}
+button.support{
+    width: 48px;
+    height: 48px;
+    background-color: #ef4056;
+    color: white;
+    border-radius: 50%;
+    border: unset;
+    position: fixed;
+    z-index: 1;
+    bottom: 32px;
+    right: 50px;
+}
+button.support>div{
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+    margin-right: 12px;
+}

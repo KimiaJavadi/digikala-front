@@ -1,0 +1,374 @@
+div.grid{
+    width: 1336px;
+    height: 418px;
+    display: inline-block;
+    position: relative;
+    right: 15%;
+    margin-top: 20px;
+    border: 1px solid rgb(214, 212, 212);
+    border-radius: 10px;
+}
+div.grid>div{
+    width: 300px;
+    height: 33px;
+    display: inline-block;
+    margin-right: 26px;
+}
+div.grid>div>div>h4{
+    color: black;
+    font-size: 15px;
+    margin: 10px;
+}
+div.grid>div>p{
+    width: 290px;
+    font-size: 10px;
+    color: rgb(122, 121, 121);
+    margin-top: 20px;
+}
+div.grid>div>div.images1{
+    width: 145px;
+    height: 145px;
+    display: inline-block;
+    margin-top: 20px;
+}
+div.grid>div>div.images1>a{
+    width: 145px;
+    height: 145px;
+    display: inline-block;
+}
+div.grid>div>div.images1>a>img{
+    width: 129px;
+    height: 129px;
+    display: inline-block;
+}
+div.grid>div>div.images2{
+    width: 145px;
+    height: 145px;
+    display: inline-block;
+}
+div.grid>div>div.images2>a{
+    width: 145px;
+    height: 145px;
+    display: inline-block;
+}
+div.grid>div>div.images2>a>img{
+    width: 129px;
+    height: 129px;
+    display: inline-block;
+}
+div.grid>div>button{
+    width: 90px;
+    height: 26px;
+    color: #45CBDB;
+    font-size: 15px;
+    border: unset;
+    background-color: #fff;
+    margin-top: 20px;
+    position: relative;
+    right: 30%;
+}
+div.grid>div>button>div{
+    width: 14px;
+    height: 14px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+
+
+
+
+div.grid2{
+    width: 1336px;
+    height: 418px;
+    display: inline-block;
+    position: relative;
+    right: 15%;
+    margin-top: 20px;
+    border: 1px solid rgb(214, 212, 212);
+    border-radius: 10px;
+}
+div.grid2>div{
+    width: 300px;
+    height: 33px;
+    display: inline-block;
+    margin-right: 26px;
+}
+div.grid2>div>div>h4{
+    color: black;
+    font-size: 15px;
+    margin: 10px;
+}
+div.grid2>div>p{
+    width: 290px;
+    font-size: 10px;
+    color: rgb(122, 121, 121);
+    margin-top: 20px;
+}
+div.grid2>div>div.images1{
+    width: 145px;
+    height: 145px;
+    display: inline-block;
+    margin-top: 20px;
+}
+div.grid2>div>div.images1>a{
+    width: 145px;
+    height: 145px;
+    display: inline-block;
+}
+div.grid2>div>div.images1>a>img{
+    width: 129px;
+    height: 129px;
+    display: inline-block;
+}
+div.grid2>div>div.images2{
+    width: 145px;
+    height: 145px;
+    display: inline-block;
+}
+div.grid2>div>div.images2>a{
+    width: 145px;
+    height: 145px;
+    display: inline-block;
+}
+div.grid2>div>div.images2>a>img{
+    width: 129px;
+    height: 129px;
+    display: inline-block;
+}
+div.grid2>div>button{
+    width: 90px;
+    height: 26px;
+    color: #45CBDB;
+    font-size: 15px;
+    border: unset;
+    background-color: #fff;
+    margin-top: 20px;
+    position: relative;
+    right: 30%;
+}
+div.grid2>div>button>div{
+    width: 14px;
+    height: 14px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+
+
+div.grid3{
+    width: 1336px;
+    border: 1px solid rgb(214, 212, 212);
+    border-radius: 10px;
+    position: relative;
+    right: 15%;
+    margin-top: 20px;
+}
+div.grid3>div.first{
+    width: 1336px;
+    height: 245px;
+    display: inline-block;
+}
+div.grid3>div{
+    width: 1310px;
+    height: 76px;
+    text-align: center;
+}
+div.grid3>div>h3{
+    width: 300px;
+    height: 44px;
+    font-size: 20px;
+    color: black;
+    position: relative;
+    right: 40%;
+    margin-top: 20px;
+}
+div.grid3>div.first>a{
+    width: 218px;
+    height: 242px;
+    display: inline-block;
+}
+div.grid3>div.first>a>div.img{
+    width: 201px;
+    height: 160px;
+}
+div.grid3>div.first>a>div.img>img{
+    width: 150px;
+    height: 150px;
+}
+
+div.grid3>div.first>a>div{
+    width: 202px;
+    height: 63px;
+}
+div.grid3>div.first>a>div>div.one{
+    width: 205px;
+    height: 33px;
+    display: inline-block;
+}
+div.grid3>div.first>a>div>div.one>button{
+    width: 30px;
+    height: 20px;
+    background-color: crimson;
+    color: #fff;
+    border-radius: 20px;
+    border: unset;
+    color: 0;
+}
+div.grid3>div.first>a>div>div.one>div.two{
+    width: 160px;
+    height: 20px;
+    display: inline-block;
+}
+div.grid3>div.first>a>div>div.one>div.two>span{
+    font-size: 13px;
+    color: black;
+    display: inline-block;
+    margin-right: 100px;
+    
+}
+div.grid3>div.first>a>div>div.three{
+    width: 200px;
+    height: 20px;
+}
+div.grid3>div.first>a>div>div.three{
+    color: rgb(122, 122, 122);
+    text-decoration: line-through;
+    font-size: 10px;
+    text-align: end;
+    
+}
+
+
+
+
+div.grid3>div.second{
+    width: 1336px;
+    height: 245px;
+    display: inline-block;
+}
+
+div.grid3>div.second>a{
+    width: 218px;
+    height: 242px;
+    display: inline-block;
+}
+div.grid3>div.second>a>div.img{
+    width: 201px;
+    height: 160px;
+}
+div.grid3>div.second>a>div.img>img{
+    width: 150px;
+    height: 150px;
+}
+
+div.grid3>div.second>a>div{
+    width: 202px;
+    height: 63px;
+}
+div.grid3>div.second>a>div>div.one{
+    width: 202px;
+    height: 33px;
+    display: inline-block;
+}
+div.grid3>div.second>a>div>div.one>button{
+    width: 34px;
+    height: 20px;
+    background-color: crimson;
+    color: #fff;
+    border-radius: 20px;
+    border: unset;
+    color: 0;
+}
+div.grid3>div.second>a>div>div.one>div.two{
+    width: 160px;
+    height: 20px;
+    display: inline-block;
+}
+div.grid3>div.second>a>div>div.one>div.two>span{
+    font-size: 13px;
+    color: black;
+    display: inline-block;
+    margin-right: 100px;
+    
+}
+div.grid3>div.second>a>div>div.three{
+    width: 200px;
+    height: 20px;
+}
+div.grid3>div.second>a>div>div.three{
+    color: rgb(122, 122, 122);
+    text-decoration: line-through;
+    font-size: 10px;
+    text-align: end;
+    
+}
+
+
+
+
+div.grid3>div.third{
+    width: 1336px;
+    height: 245px;
+    display: inline-block;
+}
+
+div.grid3>div.third>a{
+    width: 218px;
+    height: 242px;
+    display: inline-block;
+}
+div.grid3>div.third>a>div.img{
+    width: 201px;
+    height: 160px;
+}
+div.grid3>div.third>a>div.img>img{
+    width: 150px;
+    height: 150px;
+}
+
+div.grid3>div.third>a>div{
+    width: 202px;
+    height: 63px;
+}
+div.grid3>div.third>a>div>div.one{
+    width: 202px;
+    height: 33px;
+    display: inline-block;
+}
+div.grid3>div.third>a>div>div.one>button{
+    width: 34px;
+    height: 20px;
+    background-color: crimson;
+    color: #fff;
+    border-radius: 20px;
+    border: unset;
+    color: 0;
+}
+div.grid3>div.third>a>div>div.one>div.two{
+    width: 160px;
+    height: 20px;
+    display: inline-block;
+}
+div.grid3>div.third>a>div>div.one>div.two>span{
+    font-size: 13px;
+    color: black;
+    display: inline-block;
+    margin-right: 100px;
+    
+}
+div.grid3>div.third>a>div>div.three{
+    width: 200px;
+    height: 20px;
+}
+div.grid3>div.third>a>div>div.three{
+    color: rgb(122, 122, 122);
+    text-decoration: line-through;
+    font-size: 10px;
+    text-align: end;
+    
+}
+
+
